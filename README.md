@@ -1,2 +1,0 @@
-# ansiblepro
-ansibleproject
